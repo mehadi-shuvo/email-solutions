@@ -1,0 +1,25 @@
+{
+  "name": "email-solutions",
+  "version": "1.1.0",
+  "description": "email verification link, OTP verification, email sender",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mehadi-shuvo/email-solutions.git"
+  },
+  "author": "mehadi-shuvo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mehadi-shuvo/email-solutions/issues"
+  },
+  "homepage": "https://github.com/mehadi-shuvo/email-solutions#readme",
+  "devDependencies": {
+    "@types/node": "^20.12.7",
+    "typescript": "^5.4.5"
+  }
+}
